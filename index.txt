@@ -1,3 +1,4 @@
 my first commit
 changes done in remote repo
 chnages in for merge conflict
+done the changes
